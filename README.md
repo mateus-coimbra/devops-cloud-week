@@ -1,5 +1,5 @@
 A simple ReactJS app that displays latest stats about COVID-19.
-
+Dev Ops Cloud Week
 ## Installation
 - git clone https://github.com/sambreen27/covid19.git
 - cd covid19
